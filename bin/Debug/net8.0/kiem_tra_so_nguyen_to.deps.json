@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kiem_tra_so_nguyen_to/1.0.0": {
+        "runtime": {
+          "kiem_tra_so_nguyen_to.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kiem_tra_so_nguyen_to/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

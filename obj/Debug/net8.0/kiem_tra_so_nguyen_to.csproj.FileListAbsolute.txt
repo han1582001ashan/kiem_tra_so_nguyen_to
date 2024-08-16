@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\bin\Debug\net8.0\kiem_tra_so_nguyen_to.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\bin\Debug\net8.0\kiem_tra_so_nguyen_to.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\bin\Debug\net8.0\kiem_tra_so_nguyen_to.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\bin\Debug\net8.0\kiem_tra_so_nguyen_to.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\bin\Debug\net8.0\kiem_tra_so_nguyen_to.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\obj\Debug\net8.0\kiem_tra_so_nguyen_to.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\obj\Debug\net8.0\kiem_tra_so_nguyen_to.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\obj\Debug\net8.0\kiem_tra_so_nguyen_to.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\obj\Debug\net8.0\kiem_tra_so_nguyen_to.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\obj\Debug\net8.0\kiem_tra_so_nguyen_to.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\obj\Debug\net8.0\refint\kiem_tra_so_nguyen_to.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\obj\Debug\net8.0\kiem_tra_so_nguyen_to.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\obj\Debug\net8.0\kiem_tra_so_nguyen_to.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\kiem_tra_so_nguyen_to\obj\Debug\net8.0\ref\kiem_tra_so_nguyen_to.dll
